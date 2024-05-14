@@ -33,6 +33,19 @@
 			<organization>Pontificia Universidad Javeriana</organization>
 			<organizationUrl>https://www.javeriana.edu.co</organizationUrl>
 		</developer>
+		<developer>
+			<name>Carlos Andres Borja Gonzalez</name>
+			<email>candres_borja@javeriana.edu.co</email>
+			<organization>Pontificia Universidad Javeriana</organization>
+			<organizationUrl>https://www.javeriana.edu.co</organizationUrl>
+		</developer>
+
+		<developer>
+			<name>Sebastian Guillermo Martinez Velilla </name>
+			<email>sgmartinez@javeriana.edu.co</email>
+			<organization>Pontificia Universidad Javeriana</organization>
+			<organizationUrl>https://www.javeriana.edu.co</organizationUrl>
+		</developer>
 	</developers>
 	<modules>
 		<module>common</module>
@@ -47,7 +60,7 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>1.18.26</version>
+			<version>1.18.30</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
