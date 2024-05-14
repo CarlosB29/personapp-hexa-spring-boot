@@ -15,4 +15,4 @@ Ahora dentro de el c√≥digo en el IDE que estas corriendo ejecuta el siguiente c√
 El adaptador REST se encuentra disponible en el puerto 3000. Para verificar las peticiones que esta realizando al buscador entre a la siguiente URL EN DONDE ENCONTRARA EL Swagger.
 1. http://localhost:3000/swagger-ui.html
 
-o tambien podri realizar docker compuse
+ realizar docker compuse
